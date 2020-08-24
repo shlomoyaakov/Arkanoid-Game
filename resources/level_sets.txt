@@ -1,0 +1,4 @@
+e:Easy
+definitions/level_definitions.txt
+h:hard
+definitions/level_definitions.txt
